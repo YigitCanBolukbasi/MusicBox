@@ -1,0 +1,17 @@
+.baslik {
+    background-color: #E9ECEF
+}
+
+#list1 {
+    text-align: center;
+    list-style-position: inside;
+}
+
+#baslik2 {
+    color: rgb(168, 92, 21);
+    font-size: 27px;
+}
+
+body {
+    background-color: rgb(156, 192, 199);
+}
